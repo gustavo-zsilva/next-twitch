@@ -1,0 +1,8 @@
+{
+  "name": "next-twitch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/gustavo-zsilva/next-twitch.git",
+  "author": "Gustavo Zonta da Silva <gustavozontadasilva@gmail.com>",
+  "license": "MIT"
+}
